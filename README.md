@@ -52,3 +52,10 @@ part8_github_pipeline/      # Documentation
 ## Key Findings
 
 The G1Y mutation (YGSTGDRH) was identified as the optimal variant through systematic evaluation of binding affinity, structural compatibility, and drug-like properties.
+
+## Author
+
+**Ecenur Karagöl**  
+B.Sc. Molecular Biology and Genetics  
+Specialization: Computational Biology, Structural Bioinformatics  
+Contact: karagollece@gmail.com
